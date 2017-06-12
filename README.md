@@ -16,12 +16,12 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd movie-app-ember`
 * `npm install`
-* `bower install`
+* `bower install bootstrap`
 
 ## Running / Development
 
 * `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Visit your app at [http://localhost:4200/movies](http://localhost:4200/movies).
 
 ### Code Generators
 
