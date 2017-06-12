@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
 * `git clone <repository-url>` this repository
 * `cd movie-app-ember`
 * `npm install`
-* `bower install bootstrap`
+* `bower install`
 
 ## Running / Development
 
