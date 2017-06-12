@@ -1,0 +1,14 @@
+<div class="row">
+	<ul>
+	{{#each model as |item|}}
+		<li class="col-md-4">
+			{{#link-to 'movies.movie' item}}
+				<div class="box text-center"> 
+					<img src="/assets/images/{{item.icon}}" width=70 class="thumb_img" >
+					<p> {{item.title}} </p>
+				</div> 
+			{{/link-to}}	
+		</li>
+	{{/each}}
+	</ul>
+</div>

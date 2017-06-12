@@ -1,0 +1,29 @@
+
+[
+	{
+		"icon": "icon1.png",
+		"label": "Icon 1"
+	}, 
+	{
+		"icon": "icon2.png",
+		"label": "Icon 2"
+	}, 
+	{
+		"icon": "icon3.png",
+		"label": "Icon 3"
+	}, 
+	{
+		"icon": "icon4.png",
+		"label": "Icon 4"
+	}, 
+	{
+		"icon": "icon5.png",
+		"label": "Icon 5"
+	}, 
+	{
+		"icon": "icon6.png",
+		"label": "Icon 6"
+	}
+]
+
+
